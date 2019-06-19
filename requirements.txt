@@ -1,7 +1,7 @@
 atomicwrites==1.3.0
 attrs==19.1.0
 Click==7.0
--e git+git@github.com:moniquemurphy/elle-kings-number-one-hit.git@ab313e17e03aefc35bae69f4f97cec626dcccc6d#egg=ellekingsnumberonehit
+coverage==4.5.3
 Flask==1.0.3
 gunicorn==19.9.0
 importlib-metadata==0.18
